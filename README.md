@@ -40,7 +40,7 @@ To convert the Yelp Academic Dataset from JSON to CSV, follow these steps:
 ### Example
 
 ```bash
-$ python json_to_csv_converter.py yelp_academic_dataset.json
+python json_to_csv_converter.py yelp_academic_dataset.json
 ```
 
 After running the command, your JSON file will be successfully converted to a CSV file.

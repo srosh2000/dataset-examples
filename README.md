@@ -12,18 +12,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Python 3.x installed on your machine.
 - [Yelp Academic Dataset](https://www.yelp.com/dataset/documentation/main) in JSON format
 
-### Installation
-
-1. **Clone this repository:**
-
-
-
-
 ### Usage
 
 To convert the Yelp Academic Dataset from JSON to CSV, follow these steps:
 
-1. **Run the conversion script:**
+1. **Clone this repository**
+
+2. **Run the conversion script:**
 
    Use the following command in your terminal:
 
@@ -33,7 +28,7 @@ To convert the Yelp Academic Dataset from JSON to CSV, follow these steps:
 
    Replace `yelp_academic_dataset.json` with the path to the JSON file you want to convert.
 
-2. **Output:**
+3. **Output:**
 
    The script will generate a CSV file in the same directory with the name `yelp_academic_dataset.csv` (or a name matching your input JSON file).
 
